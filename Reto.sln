@@ -5,11 +5,6 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{31D5F6CA-6A09-4CDF-9CC4-E34866257FD5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script de BD", "Script de BD", "{4791B3F3-5455-4B4A-A2A0-78DCB13241EA}"
-	ProjectSection(SolutionItems) = preProject
-		..\TablaUsuarioyProcedure.sql = ..\TablaUsuarioyProcedure.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
